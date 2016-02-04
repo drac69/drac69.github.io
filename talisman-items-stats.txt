@@ -1,0 +1,1535 @@
+{
+"data":
+[
+  {
+    "Item": "Atziri's Promise",
+    "Count": 1422,
+    "Percent": 36.1648
+  },
+  {
+    "Item": "Maligaro's Virtuosity",
+    "Count": 564,
+    "Percent": 14.34385
+  },
+  {
+    "Item": "Rat's Nest",
+    "Count": 530,
+    "Percent": 13.47915
+  },
+  {
+    "Item": "Taste of Hate",
+    "Count": 461,
+    "Percent": 11.72431
+  },
+  {
+    "Item": "Voltaxic Rift",
+    "Count": 428,
+    "Percent": 10.88505
+  },
+  {
+    "Item": "Rumi's Concoction",
+    "Count": 357,
+    "Percent": 9.079349
+  },
+  {
+    "Item": "Bino's Kitchen Knife",
+    "Count": 309,
+    "Percent": 7.858596
+  },
+  {
+    "Item": "Lightning Coil",
+    "Count": 292,
+    "Percent": 7.426246
+  },
+  {
+    "Item": "The Consuming Dark",
+    "Count": 276,
+    "Percent": 7.019329
+  },
+  {
+    "Item": "Vessel of Vinktar",
+    "Count": 269,
+    "Percent": 6.841302
+  },
+  {
+    "Item": "Atziri's Step",
+    "Count": 251,
+    "Percent": 6.38352
+  },
+  {
+    "Item": "Voll's Protector",
+    "Count": 232,
+    "Percent": 5.900305
+  },
+  {
+    "Item": "Shavronne's Wrappings",
+    "Count": 229,
+    "Percent": 5.824008
+  },
+  {
+    "Item": "Perandus Blazon",
+    "Count": 226,
+    "Percent": 5.747711
+  },
+  {
+    "Item": "Infernal Mantle",
+    "Count": 222,
+    "Percent": 5.645982
+  },
+  {
+    "Item": "Ventor's Gamble",
+    "Count": 219,
+    "Percent": 5.569685
+  },
+  {
+    "Item": "Doryani's Invitation",
+    "Count": 216,
+    "Percent": 5.493388
+  },
+  {
+    "Item": "Divination Distillate",
+    "Count": 186,
+    "Percent": 4.730417
+  },
+  {
+    "Item": "Carcass Jack",
+    "Count": 171,
+    "Percent": 4.348932
+  },
+  {
+    "Item": "Voll's Devotion",
+    "Count": 167,
+    "Percent": 4.247202
+  },
+  {
+    "Item": "Kaom's Heart",
+    "Count": 166,
+    "Percent": 4.22177
+  },
+  {
+    "Item": "Facebreaker",
+    "Count": 165,
+    "Percent": 4.196338
+  },
+  {
+    "Item": "Belly of the Beast",
+    "Count": 156,
+    "Percent": 3.967447
+  },
+  {
+    "Item": "Sadima's Touch",
+    "Count": 154,
+    "Percent": 3.916582
+  },
+  {
+    "Item": "Goldwyrm",
+    "Count": 153,
+    "Percent": 3.89115
+  },
+  {
+    "Item": "Doedre's Damning",
+    "Count": 149,
+    "Percent": 3.78942
+  },
+  {
+    "Item": "Devoto's Devotion",
+    "Count": 148,
+    "Percent": 3.763988
+  },
+  {
+    "Item": "Alpha's Howl",
+    "Count": 143,
+    "Percent": 3.636826
+  },
+  {
+    "Item": "Drillneck",
+    "Count": 134,
+    "Percent": 3.407935
+  },
+  {
+    "Item": "Daresso's Defiance",
+    "Count": 131,
+    "Percent": 3.331638
+  },
+  {
+    "Item": "The Blood Dance",
+    "Count": 125,
+    "Percent": 3.179044
+  },
+  {
+    "Item": "Pledge of Hands",
+    "Count": 125,
+    "Percent": 3.179044
+  },
+  {
+    "Item": "Tabula Rasa",
+    "Count": 113,
+    "Percent": 2.873856
+  },
+  {
+    "Item": "Rainbowstride",
+    "Count": 109,
+    "Percent": 2.772126
+  },
+  {
+    "Item": "Aurseize",
+    "Count": 107,
+    "Percent": 2.721262
+  },
+  {
+    "Item": "Call of the Brotherhood",
+    "Count": 101,
+    "Percent": 2.568667
+  },
+  {
+    "Item": "Rise of the Phoenix",
+    "Count": 101,
+    "Percent": 2.568667
+  },
+  {
+    "Item": "Saffell's Frame",
+    "Count": 95,
+    "Percent": 2.416073
+  },
+  {
+    "Item": "Rathpith Globe",
+    "Count": 95,
+    "Percent": 2.416073
+  },
+  {
+    "Item": "Abyssus",
+    "Count": 90,
+    "Percent": 2.288912
+  },
+  {
+    "Item": "Ming's Heart",
+    "Count": 87,
+    "Percent": 2.212615
+  },
+  {
+    "Item": "Windripper",
+    "Count": 84,
+    "Percent": 2.136317
+  },
+  {
+    "Item": "Divinarius",
+    "Count": 82,
+    "Percent": 2.085453
+  },
+  {
+    "Item": "The Vertex",
+    "Count": 82,
+    "Percent": 2.085453
+  },
+  {
+    "Item": "Greed's Embrace",
+    "Count": 81,
+    "Percent": 2.06002
+  },
+  {
+    "Item": "Astramentis",
+    "Count": 81,
+    "Percent": 2.06002
+  },
+  {
+    "Item": "The Whispering Ice",
+    "Count": 81,
+    "Percent": 2.06002
+  },
+  {
+    "Item": "Wheel of the Stormsail",
+    "Count": 79,
+    "Percent": 2.009156
+  },
+  {
+    "Item": "The Retch",
+    "Count": 76,
+    "Percent": 1.932859
+  },
+  {
+    "Item": "Lifesprig",
+    "Count": 74,
+    "Percent": 1.881994
+  },
+  {
+    "Item": "Voidbringer",
+    "Count": 73,
+    "Percent": 1.856562
+  },
+  {
+    "Item": "Winds of Change",
+    "Count": 73,
+    "Percent": 1.856562
+  },
+  {
+    "Item": "Doryani's Catalyst",
+    "Count": 72,
+    "Percent": 1.831129
+  },
+  {
+    "Item": "Romira's Banquet",
+    "Count": 69,
+    "Percent": 1.754832
+  },
+  {
+    "Item": "Rigwald's Quills",
+    "Count": 68,
+    "Percent": 1.7294
+  },
+  {
+    "Item": "Andvarius",
+    "Count": 64,
+    "Percent": 1.62767
+  },
+  {
+    "Item": "Southbound",
+    "Count": 64,
+    "Percent": 1.62767
+  },
+  {
+    "Item": "Quill Rain",
+    "Count": 63,
+    "Percent": 1.602238
+  },
+  {
+    "Item": "Windscream",
+    "Count": 63,
+    "Percent": 1.602238
+  },
+  {
+    "Item": "Doon Cuebiyari",
+    "Count": 59,
+    "Percent": 1.500509
+  },
+  {
+    "Item": "Eye of Chayula",
+    "Count": 57,
+    "Percent": 1.449644
+  },
+  {
+    "Item": "Perandus Signet",
+    "Count": 55,
+    "Percent": 1.398779
+  },
+  {
+    "Item": "Death's Hand",
+    "Count": 53,
+    "Percent": 1.347915
+  },
+  {
+    "Item": "Lioneye's Remorse",
+    "Count": 51,
+    "Percent": 1.29705
+  },
+  {
+    "Item": "Wondertrap",
+    "Count": 50,
+    "Percent": 1.271618
+  },
+  {
+    "Item": "Stone of Lazhwar",
+    "Count": 49,
+    "Percent": 1.246185
+  },
+  {
+    "Item": "Cybil's Paw",
+    "Count": 49,
+    "Percent": 1.246185
+  },
+  {
+    "Item": "Prism Guardian",
+    "Count": 48,
+    "Percent": 1.220753
+  },
+  {
+    "Item": "Heartbreaker",
+    "Count": 48,
+    "Percent": 1.220753
+  },
+  {
+    "Item": "Ungil's Gauche",
+    "Count": 48,
+    "Percent": 1.220753
+  },
+  {
+    "Item": "Meginord's Girdle",
+    "Count": 46,
+    "Percent": 1.169888
+  },
+  {
+    "Item": "Brightbeak",
+    "Count": 46,
+    "Percent": 1.169888
+  },
+  {
+    "Item": "Lioneye's Glare",
+    "Count": 44,
+    "Percent": 1.119023
+  },
+  {
+    "Item": "Skyforth",
+    "Count": 42,
+    "Percent": 1.068159
+  },
+  {
+    "Item": "Mjölner",
+    "Count": 42,
+    "Percent": 1.068159
+  },
+  {
+    "Item": "Lori's Lantern",
+    "Count": 42,
+    "Percent": 1.068159
+  },
+  {
+    "Item": "Snakebite",
+    "Count": 42,
+    "Percent": 1.068159
+  },
+  {
+    "Item": "Prismatic Eclipse",
+    "Count": 42,
+    "Percent": 1.068159
+  },
+  {
+    "Item": "Atziri's Disfavour",
+    "Count": 41,
+    "Percent": 1.042726
+  },
+  {
+    "Item": "Hyrri's Ire",
+    "Count": 40,
+    "Percent": 1.017294
+  },
+  {
+    "Item": "Queen of the Forest",
+    "Count": 40,
+    "Percent": 1.017294
+  },
+  {
+    "Item": "Soul Taker",
+    "Count": 39,
+    "Percent": 0.9918616
+  },
+  {
+    "Item": "Reverberation Rod",
+    "Count": 37,
+    "Percent": 0.9409969
+  },
+  {
+    "Item": "Repentance",
+    "Count": 36,
+    "Percent": 0.9155646
+  },
+  {
+    "Item": "Rearguard",
+    "Count": 36,
+    "Percent": 0.9155646
+  },
+  {
+    "Item": "Auxium",
+    "Count": 36,
+    "Percent": 0.9155646
+  },
+  {
+    "Item": "Void Battery",
+    "Count": 35,
+    "Percent": 0.8901322
+  },
+  {
+    "Item": "Atziri's Splendour",
+    "Count": 33,
+    "Percent": 0.8392676
+  },
+  {
+    "Item": "Apep's Rage",
+    "Count": 33,
+    "Percent": 0.8392676
+  },
+  {
+    "Item": "Chin Sol",
+    "Count": 32,
+    "Percent": 0.8138352
+  },
+  {
+    "Item": "Pyre",
+    "Count": 31,
+    "Percent": 0.7884029
+  },
+  {
+    "Item": "Starkonja's Head",
+    "Count": 31,
+    "Percent": 0.7884029
+  },
+  {
+    "Item": "Redbeak",
+    "Count": 31,
+    "Percent": 0.7884029
+  },
+  {
+    "Item": "Bitterdream",
+    "Count": 30,
+    "Percent": 0.7629705
+  },
+  {
+    "Item": "Hezmana's Bloodlust",
+    "Count": 29,
+    "Percent": 0.7375382
+  },
+  {
+    "Item": "The Bringer of Rain",
+    "Count": 29,
+    "Percent": 0.7375382
+  },
+  {
+    "Item": "Lioneye's Paws",
+    "Count": 29,
+    "Percent": 0.7375382
+  },
+  {
+    "Item": "Empire's Grasp",
+    "Count": 28,
+    "Percent": 0.7121058
+  },
+  {
+    "Item": "Kingsguard",
+    "Count": 28,
+    "Percent": 0.7121058
+  },
+  {
+    "Item": "The Princess",
+    "Count": 28,
+    "Percent": 0.7121058
+  },
+  {
+    "Item": "Lion's Roar",
+    "Count": 27,
+    "Percent": 0.6866735
+  },
+  {
+    "Item": "Aegis Aurora",
+    "Count": 26,
+    "Percent": 0.6612411
+  },
+  {
+    "Item": "Jaws of Agony",
+    "Count": 26,
+    "Percent": 0.6612411
+  },
+  {
+    "Item": "Geofri's Crest",
+    "Count": 26,
+    "Percent": 0.6612411
+  },
+  {
+    "Item": "Bloodplay",
+    "Count": 25,
+    "Percent": 0.6358088
+  },
+  {
+    "Item": "Abberath's Horn",
+    "Count": 25,
+    "Percent": 0.6358088
+  },
+  {
+    "Item": "Victario's Influence",
+    "Count": 24,
+    "Percent": 0.6103764
+  },
+  {
+    "Item": "Bones of Ullr",
+    "Count": 24,
+    "Percent": 0.6103764
+  },
+  {
+    "Item": "Chitus' Needle",
+    "Count": 24,
+    "Percent": 0.6103764
+  },
+  {
+    "Item": "Crown of Eyes",
+    "Count": 23,
+    "Percent": 0.5849441
+  },
+  {
+    "Item": "Oro's Sacrifice",
+    "Count": 23,
+    "Percent": 0.5849441
+  },
+  {
+    "Item": "The Three Dragons",
+    "Count": 23,
+    "Percent": 0.5849441
+  },
+  {
+    "Item": "Le Heup of All",
+    "Count": 21,
+    "Percent": 0.5340794
+  },
+  {
+    "Item": "Natural Hierarchy",
+    "Count": 21,
+    "Percent": 0.5340794
+  },
+  {
+    "Item": "Rotgut",
+    "Count": 21,
+    "Percent": 0.5340794
+  },
+  {
+    "Item": "Dream Fragments",
+    "Count": 20,
+    "Percent": 0.508647
+  },
+  {
+    "Item": "The Magnate",
+    "Count": 19,
+    "Percent": 0.4832146
+  },
+  {
+    "Item": "Ephemeral Edge",
+    "Count": 19,
+    "Percent": 0.4832146
+  },
+  {
+    "Item": "Bated Breath",
+    "Count": 18,
+    "Percent": 0.4577823
+  },
+  {
+    "Item": "Sire of Shards",
+    "Count": 18,
+    "Percent": 0.4577823
+  },
+  {
+    "Item": "Twyzel",
+    "Count": 18,
+    "Percent": 0.4577823
+  },
+  {
+    "Item": "Doedre's Scorn",
+    "Count": 18,
+    "Percent": 0.4577823
+  },
+  {
+    "Item": "Dying Breath",
+    "Count": 17,
+    "Percent": 0.43235
+  },
+  {
+    "Item": "Atziri's Acuity",
+    "Count": 17,
+    "Percent": 0.43235
+  },
+  {
+    "Item": "Aurumvorax",
+    "Count": 17,
+    "Percent": 0.43235
+  },
+  {
+    "Item": "Darkray Vectors",
+    "Count": 17,
+    "Percent": 0.43235
+  },
+  {
+    "Item": "Doedre's Elixir",
+    "Count": 16,
+    "Percent": 0.4069176
+  },
+  {
+    "Item": "Relentless Fury",
+    "Count": 16,
+    "Percent": 0.4069176
+  },
+  {
+    "Item": "The Restless Ward",
+    "Count": 15,
+    "Percent": 0.3814853
+  },
+  {
+    "Item": "Storm Prison",
+    "Count": 15,
+    "Percent": 0.3814853
+  },
+  {
+    "Item": "Vis Mortis",
+    "Count": 15,
+    "Percent": 0.3814853
+  },
+  {
+    "Item": "Cherrubim's Maleficence",
+    "Count": 15,
+    "Percent": 0.3814853
+  },
+  {
+    "Item": "The Screaming Eagle",
+    "Count": 14,
+    "Percent": 0.3560529
+  },
+  {
+    "Item": "Rigwald's Command",
+    "Count": 14,
+    "Percent": 0.3560529
+  },
+  {
+    "Item": "Rigwald's Savagery",
+    "Count": 14,
+    "Percent": 0.3560529
+  },
+  {
+    "Item": "Sentari's Answer",
+    "Count": 14,
+    "Percent": 0.3560529
+  },
+  {
+    "Item": "Sidhebreath",
+    "Count": 14,
+    "Percent": 0.3560529
+  },
+  {
+    "Item": "Moonbender's Wing",
+    "Count": 14,
+    "Percent": 0.3560529
+  },
+  {
+    "Item": "Fidelitas' Spike",
+    "Count": 14,
+    "Percent": 0.3560529
+  },
+  {
+    "Item": "Forbidden Taste",
+    "Count": 14,
+    "Percent": 0.3560529
+  },
+  {
+    "Item": "Crest of Perandus",
+    "Count": 13,
+    "Percent": 0.3306206
+  },
+  {
+    "Item": "Hegemony's Era",
+    "Count": 13,
+    "Percent": 0.3306206
+  },
+  {
+    "Item": "Moonsorrow",
+    "Count": 13,
+    "Percent": 0.3306206
+  },
+  {
+    "Item": "Rigwald's Curse",
+    "Count": 13,
+    "Percent": 0.3306206
+  },
+  {
+    "Item": "Great Old One's Ward",
+    "Count": 12,
+    "Percent": 0.3051882
+  },
+  {
+    "Item": "Lakishu's Blade",
+    "Count": 12,
+    "Percent": 0.3051882
+  },
+  {
+    "Item": "Spine of the First Claimant",
+    "Count": 12,
+    "Percent": 0.3051882
+  },
+  {
+    "Item": "Hyrri's Bite",
+    "Count": 12,
+    "Percent": 0.3051882
+  },
+  {
+    "Item": "Piscator's Vigil",
+    "Count": 11,
+    "Percent": 0.2797559
+  },
+  {
+    "Item": "Black Sun Crest",
+    "Count": 11,
+    "Percent": 0.2797559
+  },
+  {
+    "Item": "Mon'tregul's Grasp",
+    "Count": 11,
+    "Percent": 0.2797559
+  },
+  {
+    "Item": "Mark of the Doubting Knight",
+    "Count": 11,
+    "Percent": 0.2797559
+  },
+  {
+    "Item": "Thunderfist",
+    "Count": 11,
+    "Percent": 0.2797559
+  },
+  {
+    "Item": "Reaper's Pursuit",
+    "Count": 11,
+    "Percent": 0.2797559
+  },
+  {
+    "Item": "Lioneye's Vision",
+    "Count": 11,
+    "Percent": 0.2797559
+  },
+  {
+    "Item": "Eclipse Solaris",
+    "Count": 11,
+    "Percent": 0.2797559
+  },
+  {
+    "Item": "Midnight Bargain",
+    "Count": 11,
+    "Percent": 0.2797559
+  },
+  {
+    "Item": "Daresso's Courage",
+    "Count": 11,
+    "Percent": 0.2797559
+  },
+  {
+    "Item": "Ornament of the East",
+    "Count": 11,
+    "Percent": 0.2797559
+  },
+  {
+    "Item": "Mightflay",
+    "Count": 11,
+    "Percent": 0.2797559
+  },
+  {
+    "Item": "Kaom's Roots",
+    "Count": 10,
+    "Percent": 0.2543235
+  },
+  {
+    "Item": "Alberon's Warpath",
+    "Count": 10,
+    "Percent": 0.2543235
+  },
+  {
+    "Item": "Kaom's Primacy",
+    "Count": 10,
+    "Percent": 0.2543235
+  },
+  {
+    "Item": "Dyadian Dawn",
+    "Count": 10,
+    "Percent": 0.2543235
+  },
+  {
+    "Item": "Essentia Sanguis",
+    "Count": 10,
+    "Percent": 0.2543235
+  },
+  {
+    "Item": "Storm Cloud",
+    "Count": 10,
+    "Percent": 0.2543235
+  },
+  {
+    "Item": "Headhunter",
+    "Count": 10,
+    "Percent": 0.2543235
+  },
+  {
+    "Item": "Goredrill",
+    "Count": 9,
+    "Percent": 0.2288911
+  },
+  {
+    "Item": "The Supreme Truth",
+    "Count": 9,
+    "Percent": 0.2288911
+  },
+  {
+    "Item": "Wildslash",
+    "Count": 9,
+    "Percent": 0.2288911
+  },
+  {
+    "Item": "Gorebreaker",
+    "Count": 9,
+    "Percent": 0.2288911
+  },
+  {
+    "Item": "Soul Mantle",
+    "Count": 9,
+    "Percent": 0.2288911
+  },
+  {
+    "Item": "Nycta's Lantern",
+    "Count": 9,
+    "Percent": 0.2288911
+  },
+  {
+    "Item": "Flesh-Eater",
+    "Count": 8,
+    "Percent": 0.2034588
+  },
+  {
+    "Item": "Soul Strike",
+    "Count": 8,
+    "Percent": 0.2034588
+  },
+  {
+    "Item": "Coruscating Elixir",
+    "Count": 8,
+    "Percent": 0.2034588
+  },
+  {
+    "Item": "Fairgraves' Tricorne",
+    "Count": 8,
+    "Percent": 0.2034588
+  },
+  {
+    "Item": "Bloodgrip",
+    "Count": 8,
+    "Percent": 0.2034588
+  },
+  {
+    "Item": "Last Resort",
+    "Count": 8,
+    "Percent": 0.2034588
+  },
+  {
+    "Item": "Doomsower",
+    "Count": 7,
+    "Percent": 0.1780265
+  },
+  {
+    "Item": "Hyaon's Fury",
+    "Count": 7,
+    "Percent": 0.1780265
+  },
+  {
+    "Item": "Atziri's Foible",
+    "Count": 7,
+    "Percent": 0.1780265
+  },
+  {
+    "Item": "Meginord's Vise",
+    "Count": 7,
+    "Percent": 0.1780265
+  },
+  {
+    "Item": "Springleaf",
+    "Count": 7,
+    "Percent": 0.1780265
+  },
+  {
+    "Item": "The Peregrine",
+    "Count": 7,
+    "Percent": 0.1780265
+  },
+  {
+    "Item": "Shadows and Dust",
+    "Count": 7,
+    "Percent": 0.1780265
+  },
+  {
+    "Item": "Kingmaker",
+    "Count": 7,
+    "Percent": 0.1780265
+  },
+  {
+    "Item": "Eyes of the Greatwolf",
+    "Count": 7,
+    "Percent": 0.1780265
+  },
+  {
+    "Item": "Rigwald's Crest",
+    "Count": 7,
+    "Percent": 0.1780265
+  },
+  {
+    "Item": "Asenath's Gentle Touch",
+    "Count": 7,
+    "Percent": 0.1780265
+  },
+  {
+    "Item": "Lavianga's Wisdom",
+    "Count": 7,
+    "Percent": 0.1780265
+  },
+  {
+    "Item": "Chalice of Horrors",
+    "Count": 6,
+    "Percent": 0.1525941
+  },
+  {
+    "Item": "Thief's Torment",
+    "Count": 6,
+    "Percent": 0.1525941
+  },
+  {
+    "Item": "Sunblast",
+    "Count": 6,
+    "Percent": 0.1525941
+  },
+  {
+    "Item": "Deerstalker",
+    "Count": 6,
+    "Percent": 0.1525941
+  },
+  {
+    "Item": "Death's Harp",
+    "Count": 6,
+    "Percent": 0.1525941
+  },
+  {
+    "Item": "Roth's Reach",
+    "Count": 6,
+    "Percent": 0.1525941
+  },
+  {
+    "Item": "Dreamfeather",
+    "Count": 6,
+    "Percent": 0.1525941
+  },
+  {
+    "Item": "Belt of the Deceiver",
+    "Count": 6,
+    "Percent": 0.1525941
+  },
+  {
+    "Item": "Marohi Erqi",
+    "Count": 6,
+    "Percent": 0.1525941
+  },
+  {
+    "Item": "Sin Trek",
+    "Count": 5,
+    "Percent": 0.1271618
+  },
+  {
+    "Item": "Shaper's Seed",
+    "Count": 5,
+    "Percent": 0.1271618
+  },
+  {
+    "Item": "Goldrim",
+    "Count": 5,
+    "Percent": 0.1271618
+  },
+  {
+    "Item": "Femurs of the Saints",
+    "Count": 5,
+    "Percent": 0.1271618
+  },
+  {
+    "Item": "Al Dhih",
+    "Count": 5,
+    "Percent": 0.1271618
+  },
+  {
+    "Item": "Rebuke of the Vaal",
+    "Count": 5,
+    "Percent": 0.1271618
+  },
+  {
+    "Item": "Mortem Morsu",
+    "Count": 5,
+    "Percent": 0.1271618
+  },
+  {
+    "Item": "Cloak of Flame",
+    "Count": 5,
+    "Percent": 0.1271618
+  },
+  {
+    "Item": "Sundance",
+    "Count": 5,
+    "Percent": 0.1271618
+  },
+  {
+    "Item": "Gang's Momentum",
+    "Count": 5,
+    "Percent": 0.1271618
+  },
+  {
+    "Item": "Kongming's Stratagem",
+    "Count": 5,
+    "Percent": 0.1271618
+  },
+  {
+    "Item": "Kaltenhalt",
+    "Count": 5,
+    "Percent": 0.1271618
+  },
+  {
+    "Item": "Lavianga's Spirit",
+    "Count": 5,
+    "Percent": 0.1271618
+  },
+  {
+    "Item": "Solaris Lorica",
+    "Count": 5,
+    "Percent": 0.1271618
+  },
+  {
+    "Item": "Ambu's Charge",
+    "Count": 4,
+    "Percent": 0.1017294
+  },
+  {
+    "Item": "Malachai's Simula",
+    "Count": 4,
+    "Percent": 0.1017294
+  },
+  {
+    "Item": "Izaro's Dilemma",
+    "Count": 4,
+    "Percent": 0.1017294
+  },
+  {
+    "Item": "The Searing Touch",
+    "Count": 4,
+    "Percent": 0.1017294
+  },
+  {
+    "Item": "Blood of Corruption",
+    "Count": 4,
+    "Percent": 0.1017294
+  },
+  {
+    "Item": "Infractem",
+    "Count": 4,
+    "Percent": 0.1017294
+  },
+  {
+    "Item": "Cameria's Maul",
+    "Count": 4,
+    "Percent": 0.1017294
+  },
+  {
+    "Item": "The Deep One's Hide",
+    "Count": 4,
+    "Percent": 0.1017294
+  },
+  {
+    "Item": "Allure",
+    "Count": 4,
+    "Percent": 0.1017294
+  },
+  {
+    "Item": "Dreadarc",
+    "Count": 4,
+    "Percent": 0.1017294
+  },
+  {
+    "Item": "Shavronne's Revelation",
+    "Count": 3,
+    "Percent": 0.07629705
+  },
+  {
+    "Item": "Tremor Rod",
+    "Count": 3,
+    "Percent": 0.07629705
+  },
+  {
+    "Item": "Karui Ward",
+    "Count": 3,
+    "Percent": 0.07629705
+  },
+  {
+    "Item": "The Anvil",
+    "Count": 3,
+    "Percent": 0.07629705
+  },
+  {
+    "Item": "Surgebinders",
+    "Count": 3,
+    "Percent": 0.07629705
+  },
+  {
+    "Item": "Wideswing",
+    "Count": 3,
+    "Percent": 0.07629705
+  },
+  {
+    "Item": "Berek's Grip",
+    "Count": 3,
+    "Percent": 0.07629705
+  },
+  {
+    "Item": "Matua Tupuna",
+    "Count": 3,
+    "Percent": 0.07629705
+  },
+  {
+    "Item": "Sibyl's Lament",
+    "Count": 3,
+    "Percent": 0.07629705
+  },
+  {
+    "Item": "The Goddess Scorned",
+    "Count": 3,
+    "Percent": 0.07629705
+  },
+  {
+    "Item": "Hrimnor's Resolve",
+    "Count": 3,
+    "Percent": 0.07629705
+  },
+  {
+    "Item": "Rigwald's Charge",
+    "Count": 3,
+    "Percent": 0.07629705
+  },
+  {
+    "Item": "Taryn's Shiver",
+    "Count": 3,
+    "Percent": 0.07629705
+  },
+  {
+    "Item": "Death's Oath",
+    "Count": 3,
+    "Percent": 0.07629705
+  },
+  {
+    "Item": "Immortal Flesh",
+    "Count": 3,
+    "Percent": 0.07629705
+  },
+  {
+    "Item": "Kongor's Undying Rage",
+    "Count": 3,
+    "Percent": 0.07629705
+  },
+  {
+    "Item": "Mokou's Embrace",
+    "Count": 3,
+    "Percent": 0.07629705
+  },
+  {
+    "Item": "Atziri's Mirror",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Maligaro's Lens",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "The Goddess Bound",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Heartbound Loop",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Soulthirst",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Warped Timepiece",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Wings of Entropy",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Icetomb",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Shiversting",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Rashkaldor's Patience",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "The Harvest",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Terminus Est",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Zahndethus' Cassock",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Chitus' Apex",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Blackgleam",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Kikazaru",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Asphyxia's Wrath",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Malachai's Artifice",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Wurm's Molt",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Fencoil",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Agnerod East",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Chernobog's Pillar",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Scold's Bridle",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "The Broken Crown",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Ungil's Harmony",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Victario's Acuity",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Dyadus",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Death Rush",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Kaom's Sign",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Ichimonji",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Cloak of Defiance",
+    "Count": 2,
+    "Percent": 0.0508647
+  },
+  {
+    "Item": "Geofri's Baptism",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Faminebind",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Foxshade",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "The Aylardex",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Song of the Sirens",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Gifts from Above",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Ondar's Clasp",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Skullhead",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Bronn's Lithe",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Doomfletch",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Doedre's Tenure",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Shackles of the Wretched",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Emberwake",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Queen's Decree",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Slitherpinch",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Agnerod West",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Jorrhast's Blacksteel",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Null's Inclination",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Demigod's Bounty",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Feastbind",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "The Ignomon",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Ashrend",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Doryani's Fist",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Nomic's Storm",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Extractor Mentis",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Thousand Teeth Temu",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Thousand Ribbons",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Callinellus Malleus",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Redblade Tramplers",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Lightbane Raiment",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Agnerod South",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Asenath's Mark",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Titucius' Span",
+    "Count": 1,
+    "Percent": 0.02543235
+  },
+  {
+    "Item": "Honourhome",
+    "Count": 1,
+    "Percent": 0.02543235
+  }
+]
+}

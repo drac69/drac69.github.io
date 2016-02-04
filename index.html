@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head><title>Test</title>
+<head><title>Loading...</title>
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/s/zf-5.5.2/dt-1.10.10/datatables.min.css"/>
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/1.1.1/css/buttons.dataTables.min.css"/>
 <script type="text/javascript" src="https://cdn.datatables.net/s/dt/jq-2.1.4,dt-1.10.10,b-1.1.0,b-html5-1.1.0,r-2.0.0/datatables.min.js"></script>
@@ -16,9 +16,23 @@
         </thead>
     </table>
 <script type="text/javascript">
+String.prototype.capitalize = function() {
+    return this.charAt(0).toUpperCase() + this.slice(1);}
+
+var $_GET = {};
+document.location.search.replace(/\??(?:([^=]+)=([^&]*)&?)/g, function () {
+    function decode(s) {
+        return decodeURIComponent(s.split("+").join(" "));
+    }
+
+    $_GET[decode(arguments[1])] = decode(arguments[2]);
+});
+document.title = $_GET['league'].capitalize() + ' ' + $_GET['type'].capitalize();
+var data = ($_GET['league'] + "-" + $_GET['type'] + "-stats.txt");
+
 $(document).ready(function() {
     $('#example').DataTable( {
-        "ajax": 'test.json',
+        "ajax": data,
 		 "language": {
             "decimal": ",",
             "thousands": "."

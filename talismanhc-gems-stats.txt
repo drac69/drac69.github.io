@@ -1,0 +1,1250 @@
+{
+"data":
+[
+  {
+    "Item": "Increased Duration",
+    "Count": 3004,
+    "Percent": 69.36043
+  },
+  {
+    "Item": "Cast when Damage Taken",
+    "Count": 2819,
+    "Percent": 65.0889
+  },
+  {
+    "Item": "Faster Casting",
+    "Count": 2485,
+    "Percent": 57.37705
+  },
+  {
+    "Item": "Faster Attacks",
+    "Count": 2213,
+    "Percent": 51.09674
+  },
+  {
+    "Item": "Immortal Call",
+    "Count": 1998,
+    "Percent": 46.13253
+  },
+  {
+    "Item": "Fortify",
+    "Count": 1468,
+    "Percent": 33.89518
+  },
+  {
+    "Item": "Spell Echo",
+    "Count": 1383,
+    "Percent": 31.93258
+  },
+  {
+    "Item": "Concentrated Effect",
+    "Count": 1195,
+    "Percent": 27.59178
+  },
+  {
+    "Item": "Increased Area of Effect",
+    "Count": 1190,
+    "Percent": 27.47633
+  },
+  {
+    "Item": "Controlled Destruction",
+    "Count": 1171,
+    "Percent": 27.03764
+  },
+  {
+    "Item": "Bladefall",
+    "Count": 1142,
+    "Percent": 26.36804
+  },
+  {
+    "Item": "Enfeeble",
+    "Count": 1132,
+    "Percent": 26.13715
+  },
+  {
+    "Item": "Greater Multiple Projectiles",
+    "Count": 1131,
+    "Percent": 26.11406
+  },
+  {
+    "Item": "Blood Magic",
+    "Count": 1095,
+    "Percent": 25.28284
+  },
+  {
+    "Item": "Enduring Cry",
+    "Count": 1060,
+    "Percent": 24.47472
+  },
+  {
+    "Item": "Weapon Elemental Damage",
+    "Count": 1055,
+    "Percent": 24.35927
+  },
+  {
+    "Item": "Hatred",
+    "Count": 1004,
+    "Percent": 23.18171
+  },
+  {
+    "Item": "Vaal Haste",
+    "Count": 1002,
+    "Percent": 23.13553
+  },
+  {
+    "Item": "Flame Dash",
+    "Count": 976,
+    "Percent": 22.53521
+  },
+  {
+    "Item": "Summon Chaos Golem",
+    "Count": 913,
+    "Percent": 21.08058
+  },
+  {
+    "Item": "Whirling Blades",
+    "Count": 908,
+    "Percent": 20.96514
+  },
+  {
+    "Item": "Arctic Armour",
+    "Count": 906,
+    "Percent": 20.91896
+  },
+  {
+    "Item": "Void Manipulation",
+    "Count": 865,
+    "Percent": 19.97229
+  },
+  {
+    "Item": "Added Fire Damage",
+    "Count": 854,
+    "Percent": 19.71831
+  },
+  {
+    "Item": "Empower",
+    "Count": 848,
+    "Percent": 19.57977
+  },
+  {
+    "Item": "Life Leech",
+    "Count": 822,
+    "Percent": 18.97945
+  },
+  {
+    "Item": "Assassin's Mark",
+    "Count": 769,
+    "Percent": 17.75571
+  },
+  {
+    "Item": "Melee Physical Damage",
+    "Count": 747,
+    "Percent": 17.24775
+  },
+  {
+    "Item": "Blood Rage",
+    "Count": 731,
+    "Percent": 16.87832
+  },
+  {
+    "Item": "Herald of Thunder",
+    "Count": 691,
+    "Percent": 15.95475
+  },
+  {
+    "Item": "Herald of Ice",
+    "Count": 688,
+    "Percent": 15.88548
+  },
+  {
+    "Item": "Blasphemy",
+    "Count": 682,
+    "Percent": 15.74694
+  },
+  {
+    "Item": "Added Lightning Damage",
+    "Count": 664,
+    "Percent": 15.33133
+  },
+  {
+    "Item": "Arc",
+    "Count": 652,
+    "Percent": 15.05426
+  },
+  {
+    "Item": "Enlighten",
+    "Count": 637,
+    "Percent": 14.70792
+  },
+  {
+    "Item": "Clarity",
+    "Count": 629,
+    "Percent": 14.5232
+  },
+  {
+    "Item": "Wrath",
+    "Count": 601,
+    "Percent": 13.8767
+  },
+  {
+    "Item": "Multistrike",
+    "Count": 578,
+    "Percent": 13.34565
+  },
+  {
+    "Item": "Summon Ice Golem",
+    "Count": 565,
+    "Percent": 13.04549
+  },
+  {
+    "Item": "Discipline",
+    "Count": 561,
+    "Percent": 12.95313
+  },
+  {
+    "Item": "Molten Shell",
+    "Count": 552,
+    "Percent": 12.74532
+  },
+  {
+    "Item": "Spell Totem",
+    "Count": 552,
+    "Percent": 12.74532
+  },
+  {
+    "Item": "Herald of Ash",
+    "Count": 545,
+    "Percent": 12.5837
+  },
+  {
+    "Item": "Poison",
+    "Count": 540,
+    "Percent": 12.46825
+  },
+  {
+    "Item": "Warlord's Mark",
+    "Count": 534,
+    "Percent": 12.32972
+  },
+  {
+    "Item": "Summon Raging Spirit",
+    "Count": 529,
+    "Percent": 12.21427
+  },
+  {
+    "Item": "Temporal Chains",
+    "Count": 517,
+    "Percent": 11.9372
+  },
+  {
+    "Item": "Summon Flame Golem",
+    "Count": 508,
+    "Percent": 11.72939
+  },
+  {
+    "Item": "Blink Arrow",
+    "Count": 496,
+    "Percent": 11.45232
+  },
+  {
+    "Item": "Firestorm",
+    "Count": 492,
+    "Percent": 11.35996
+  },
+  {
+    "Item": "Caustic Arrow",
+    "Count": 469,
+    "Percent": 10.82891
+  },
+  {
+    "Item": "Chain",
+    "Count": 463,
+    "Percent": 10.69037
+  },
+  {
+    "Item": "Item Rarity",
+    "Count": 457,
+    "Percent": 10.55184
+  },
+  {
+    "Item": "Frenzy",
+    "Count": 411,
+    "Percent": 9.489725
+  },
+  {
+    "Item": "Shockwave Totem",
+    "Count": 402,
+    "Percent": 9.281921
+  },
+  {
+    "Item": "Blade Vortex",
+    "Count": 389,
+    "Percent": 8.981759
+  },
+  {
+    "Item": "Wither",
+    "Count": 378,
+    "Percent": 8.727777
+  },
+  {
+    "Item": "Grace",
+    "Count": 375,
+    "Percent": 8.658508
+  },
+  {
+    "Item": "Cyclone",
+    "Count": 374,
+    "Percent": 8.635419
+  },
+  {
+    "Item": "Minion Damage",
+    "Count": 368,
+    "Percent": 8.496883
+  },
+  {
+    "Item": "Discharge",
+    "Count": 365,
+    "Percent": 8.427615
+  },
+  {
+    "Item": "Leap Slam",
+    "Count": 364,
+    "Percent": 8.404526
+  },
+  {
+    "Item": "Essence Drain",
+    "Count": 360,
+    "Percent": 8.312168
+  },
+  {
+    "Item": "Flame Totem",
+    "Count": 349,
+    "Percent": 8.058186
+  },
+  {
+    "Item": "Slower Projectiles",
+    "Count": 341,
+    "Percent": 7.87347
+  },
+  {
+    "Item": "Minion Life",
+    "Count": 337,
+    "Percent": 7.781113
+  },
+  {
+    "Item": "Rapid Decay",
+    "Count": 336,
+    "Percent": 7.758024
+  },
+  {
+    "Item": "Melee Splash",
+    "Count": 335,
+    "Percent": 7.734934
+  },
+  {
+    "Item": "Fire Penetration",
+    "Count": 331,
+    "Percent": 7.642577
+  },
+  {
+    "Item": "Purity of Fire",
+    "Count": 325,
+    "Percent": 7.504041
+  },
+  {
+    "Item": "Iron Will",
+    "Count": 325,
+    "Percent": 7.504041
+  },
+  {
+    "Item": "Lightning Arrow",
+    "Count": 324,
+    "Percent": 7.480951
+  },
+  {
+    "Item": "Vulnerability",
+    "Count": 323,
+    "Percent": 7.457862
+  },
+  {
+    "Item": "Vaal Discipline",
+    "Count": 322,
+    "Percent": 7.434772
+  },
+  {
+    "Item": "Physical to Lightning",
+    "Count": 319,
+    "Percent": 7.365504
+  },
+  {
+    "Item": "Blast Rain",
+    "Count": 297,
+    "Percent": 6.857539
+  },
+  {
+    "Item": "Faster Projectiles",
+    "Count": 282,
+    "Percent": 6.511199
+  },
+  {
+    "Item": "Lightning Warp",
+    "Count": 281,
+    "Percent": 6.488109
+  },
+  {
+    "Item": "Increased Critical Damage",
+    "Count": 280,
+    "Percent": 6.46502
+  },
+  {
+    "Item": "Power Charge On Critical",
+    "Count": 279,
+    "Percent": 6.44193
+  },
+  {
+    "Item": "Portal",
+    "Count": 278,
+    "Percent": 6.418841
+  },
+  {
+    "Item": "Haste",
+    "Count": 276,
+    "Percent": 6.372662
+  },
+  {
+    "Item": "Generosity",
+    "Count": 276,
+    "Percent": 6.372662
+  },
+  {
+    "Item": "Spark",
+    "Count": 274,
+    "Percent": 6.326484
+  },
+  {
+    "Item": "Lightning Penetration",
+    "Count": 272,
+    "Percent": 6.280305
+  },
+  {
+    "Item": "Flesh Offering",
+    "Count": 271,
+    "Percent": 6.257215
+  },
+  {
+    "Item": "Added Chaos Damage",
+    "Count": 269,
+    "Percent": 6.211037
+  },
+  {
+    "Item": "Flameblast",
+    "Count": 265,
+    "Percent": 6.11868
+  },
+  {
+    "Item": "Culling Strike",
+    "Count": 264,
+    "Percent": 6.09559
+  },
+  {
+    "Item": "Vaal Grace",
+    "Count": 262,
+    "Percent": 6.049411
+  },
+  {
+    "Item": "Physical Projectile Attack Damage",
+    "Count": 261,
+    "Percent": 6.026322
+  },
+  {
+    "Item": "Tempest Shield",
+    "Count": 251,
+    "Percent": 5.795428
+  },
+  {
+    "Item": "Raise Zombie",
+    "Count": 244,
+    "Percent": 5.633803
+  },
+  {
+    "Item": "Rallying Cry",
+    "Count": 236,
+    "Percent": 5.449088
+  },
+  {
+    "Item": "Ethereal Knives",
+    "Count": 227,
+    "Percent": 5.241284
+  },
+  {
+    "Item": "Enhance",
+    "Count": 225,
+    "Percent": 5.195105
+  },
+  {
+    "Item": "Flammability",
+    "Count": 219,
+    "Percent": 5.056569
+  },
+  {
+    "Item": "Minion and Totem Elemental Resistance",
+    "Count": 219,
+    "Percent": 5.056569
+  },
+  {
+    "Item": "Trap and Mine Damage",
+    "Count": 211,
+    "Percent": 4.871854
+  },
+  {
+    "Item": "Vaal Lightning Trap",
+    "Count": 208,
+    "Percent": 4.802586
+  },
+  {
+    "Item": "Purity of Elements",
+    "Count": 206,
+    "Percent": 4.756407
+  },
+  {
+    "Item": "Anger",
+    "Count": 205,
+    "Percent": 4.733318
+  },
+  {
+    "Item": "Arctic Breath",
+    "Count": 203,
+    "Percent": 4.687139
+  },
+  {
+    "Item": "Purity of Lightning",
+    "Count": 202,
+    "Percent": 4.66405
+  },
+  {
+    "Item": "Decoy Totem",
+    "Count": 195,
+    "Percent": 4.502424
+  },
+  {
+    "Item": "Life Gain on Hit",
+    "Count": 195,
+    "Percent": 4.502424
+  },
+  {
+    "Item": "Pierce",
+    "Count": 187,
+    "Percent": 4.317709
+  },
+  {
+    "Item": "Less Duration",
+    "Count": 183,
+    "Percent": 4.225352
+  },
+  {
+    "Item": "Elemental Weakness",
+    "Count": 182,
+    "Percent": 4.202263
+  },
+  {
+    "Item": "Vaal Clarity",
+    "Count": 181,
+    "Percent": 4.179173
+  },
+  {
+    "Item": "Added Cold Damage",
+    "Count": 180,
+    "Percent": 4.156084
+  },
+  {
+    "Item": "Cold Penetration",
+    "Count": 166,
+    "Percent": 3.832833
+  },
+  {
+    "Item": "Trap",
+    "Count": 164,
+    "Percent": 3.786654
+  },
+  {
+    "Item": "Contagion",
+    "Count": 162,
+    "Percent": 3.740476
+  },
+  {
+    "Item": "Increased Critical Strikes",
+    "Count": 158,
+    "Percent": 3.648118
+  },
+  {
+    "Item": "Vengeance",
+    "Count": 156,
+    "Percent": 3.601939
+  },
+  {
+    "Item": "Explosive Arrow",
+    "Count": 149,
+    "Percent": 3.440314
+  },
+  {
+    "Item": "Reave",
+    "Count": 144,
+    "Percent": 3.324867
+  },
+  {
+    "Item": "Lesser Multiple Projectiles",
+    "Count": 143,
+    "Percent": 3.301778
+  },
+  {
+    "Item": "Increased Burning Damage",
+    "Count": 141,
+    "Percent": 3.255599
+  },
+  {
+    "Item": "Ball Lightning",
+    "Count": 140,
+    "Percent": 3.23251
+  },
+  {
+    "Item": "Hypothermia",
+    "Count": 138,
+    "Percent": 3.186331
+  },
+  {
+    "Item": "Vaal Spark",
+    "Count": 133,
+    "Percent": 3.070884
+  },
+  {
+    "Item": "Split Arrow",
+    "Count": 133,
+    "Percent": 3.070884
+  },
+  {
+    "Item": "Raise Spectre",
+    "Count": 130,
+    "Percent": 3.001616
+  },
+  {
+    "Item": "Righteous Fire",
+    "Count": 130,
+    "Percent": 3.001616
+  },
+  {
+    "Item": "Ice Bite",
+    "Count": 118,
+    "Percent": 2.724544
+  },
+  {
+    "Item": "Innervate",
+    "Count": 116,
+    "Percent": 2.678365
+  },
+  {
+    "Item": "Cast On Critical Strike",
+    "Count": 113,
+    "Percent": 2.609097
+  },
+  {
+    "Item": "Vaal Storm Call",
+    "Count": 113,
+    "Percent": 2.609097
+  },
+  {
+    "Item": "Abyssal Cry",
+    "Count": 113,
+    "Percent": 2.609097
+  },
+  {
+    "Item": "Determination",
+    "Count": 113,
+    "Percent": 2.609097
+  },
+  {
+    "Item": "Freezing Pulse",
+    "Count": 109,
+    "Percent": 2.51674
+  },
+  {
+    "Item": "Blind",
+    "Count": 108,
+    "Percent": 2.49365
+  },
+  {
+    "Item": "Ice Shot",
+    "Count": 107,
+    "Percent": 2.470561
+  },
+  {
+    "Item": "Phase Run",
+    "Count": 105,
+    "Percent": 2.424382
+  },
+  {
+    "Item": "Tornado Shot",
+    "Count": 105,
+    "Percent": 2.424382
+  },
+  {
+    "Item": "Animate Guardian",
+    "Count": 104,
+    "Percent": 2.401293
+  },
+  {
+    "Item": "Multiple Traps",
+    "Count": 99,
+    "Percent": 2.285846
+  },
+  {
+    "Item": "Conductivity",
+    "Count": 98,
+    "Percent": 2.262757
+  },
+  {
+    "Item": "Purity of Ice",
+    "Count": 97,
+    "Percent": 2.239667
+  },
+  {
+    "Item": "Endurance Charge on Melee Stun",
+    "Count": 96,
+    "Percent": 2.216578
+  },
+  {
+    "Item": "Cold Snap",
+    "Count": 88,
+    "Percent": 2.031863
+  },
+  {
+    "Item": "Frostbite",
+    "Count": 86,
+    "Percent": 1.985685
+  },
+  {
+    "Item": "Molten Strike",
+    "Count": 85,
+    "Percent": 1.962595
+  },
+  {
+    "Item": "Cast when Stunned",
+    "Count": 85,
+    "Percent": 1.962595
+  },
+  {
+    "Item": "Lightning Strike",
+    "Count": 85,
+    "Percent": 1.962595
+  },
+  {
+    "Item": "Siege Ballista",
+    "Count": 80,
+    "Percent": 1.847148
+  },
+  {
+    "Item": "Desecrate",
+    "Count": 78,
+    "Percent": 1.80097
+  },
+  {
+    "Item": "Frost Wall",
+    "Count": 77,
+    "Percent": 1.77788
+  },
+  {
+    "Item": "Mana Leech",
+    "Count": 77,
+    "Percent": 1.77788
+  },
+  {
+    "Item": "Vaal Reave",
+    "Count": 75,
+    "Percent": 1.731702
+  },
+  {
+    "Item": "Incinerate",
+    "Count": 73,
+    "Percent": 1.685523
+  },
+  {
+    "Item": "Convocation",
+    "Count": 72,
+    "Percent": 1.662434
+  },
+  {
+    "Item": "Poacher's Mark",
+    "Count": 71,
+    "Percent": 1.639344
+  },
+  {
+    "Item": "Searing Bond",
+    "Count": 71,
+    "Percent": 1.639344
+  },
+  {
+    "Item": "Reckoning",
+    "Count": 70,
+    "Percent": 1.616255
+  },
+  {
+    "Item": "Reduced Mana",
+    "Count": 69,
+    "Percent": 1.593166
+  },
+  {
+    "Item": "Shock Nova",
+    "Count": 67,
+    "Percent": 1.546987
+  },
+  {
+    "Item": "Fire Trap",
+    "Count": 65,
+    "Percent": 1.500808
+  },
+  {
+    "Item": "Vaal Summon Skeletons",
+    "Count": 65,
+    "Percent": 1.500808
+  },
+  {
+    "Item": "Bear Trap",
+    "Count": 63,
+    "Percent": 1.454629
+  },
+  {
+    "Item": "Vitality",
+    "Count": 62,
+    "Percent": 1.43154
+  },
+  {
+    "Item": "Fireball",
+    "Count": 62,
+    "Percent": 1.43154
+  },
+  {
+    "Item": "Kinetic Blast",
+    "Count": 59,
+    "Percent": 1.362272
+  },
+  {
+    "Item": "Bone Offering",
+    "Count": 58,
+    "Percent": 1.339183
+  },
+  {
+    "Item": "Spectral Throw",
+    "Count": 58,
+    "Percent": 1.339183
+  },
+  {
+    "Item": "Ice Nova",
+    "Count": 58,
+    "Percent": 1.339183
+  },
+  {
+    "Item": "Puncture",
+    "Count": 51,
+    "Percent": 1.177557
+  },
+  {
+    "Item": "Storm Call",
+    "Count": 48,
+    "Percent": 1.108289
+  },
+  {
+    "Item": "Riposte",
+    "Count": 48,
+    "Percent": 1.108289
+  },
+  {
+    "Item": "Infernal Blow",
+    "Count": 45,
+    "Percent": 1.039021
+  },
+  {
+    "Item": "Summon Skeletons",
+    "Count": 45,
+    "Percent": 1.039021
+  },
+  {
+    "Item": "Barrage",
+    "Count": 42,
+    "Percent": 0.969753
+  },
+  {
+    "Item": "Mirror Arrow",
+    "Count": 42,
+    "Percent": 0.969753
+  },
+  {
+    "Item": "Glacial Cascade",
+    "Count": 40,
+    "Percent": 0.9235742
+  },
+  {
+    "Item": "Ice Crash",
+    "Count": 40,
+    "Percent": 0.9235742
+  },
+  {
+    "Item": "Chance to Ignite",
+    "Count": 37,
+    "Percent": 0.8543062
+  },
+  {
+    "Item": "Sweep",
+    "Count": 37,
+    "Percent": 0.8543062
+  },
+  {
+    "Item": "Animate Weapon",
+    "Count": 36,
+    "Percent": 0.8312168
+  },
+  {
+    "Item": "Stun",
+    "Count": 35,
+    "Percent": 0.8081275
+  },
+  {
+    "Item": "Frost Blades",
+    "Count": 34,
+    "Percent": 0.7850381
+  },
+  {
+    "Item": "Flame Surge",
+    "Count": 33,
+    "Percent": 0.7619488
+  },
+  {
+    "Item": "Rain of Arrows",
+    "Count": 33,
+    "Percent": 0.7619488
+  },
+  {
+    "Item": "Vaal Cyclone",
+    "Count": 33,
+    "Percent": 0.7619488
+  },
+  {
+    "Item": "Vaal Molten Shell",
+    "Count": 33,
+    "Percent": 0.7619488
+  },
+  {
+    "Item": "Ice Spear",
+    "Count": 32,
+    "Percent": 0.7388594
+  },
+  {
+    "Item": "Magma Orb",
+    "Count": 31,
+    "Percent": 0.71577
+  },
+  {
+    "Item": "Smoke Mine",
+    "Count": 28,
+    "Percent": 0.646502
+  },
+  {
+    "Item": "Elemental Proliferation",
+    "Count": 27,
+    "Percent": 0.6234126
+  },
+  {
+    "Item": "Flicker Strike",
+    "Count": 27,
+    "Percent": 0.6234126
+  },
+  {
+    "Item": "Knockback",
+    "Count": 26,
+    "Percent": 0.6003233
+  },
+  {
+    "Item": "Vaal Ground Slam",
+    "Count": 25,
+    "Percent": 0.5772339
+  },
+  {
+    "Item": "Minion Speed",
+    "Count": 24,
+    "Percent": 0.5541446
+  },
+  {
+    "Item": "Heavy Strike",
+    "Count": 24,
+    "Percent": 0.5541446
+  },
+  {
+    "Item": "Vaal Lightning Strike",
+    "Count": 24,
+    "Percent": 0.5541446
+  },
+  {
+    "Item": "Point Blank",
+    "Count": 23,
+    "Percent": 0.5310552
+  },
+  {
+    "Item": "Vaal Burning Arrow",
+    "Count": 22,
+    "Percent": 0.5079658
+  },
+  {
+    "Item": "Ground Slam",
+    "Count": 22,
+    "Percent": 0.5079658
+  },
+  {
+    "Item": "Cold to Fire",
+    "Count": 22,
+    "Percent": 0.5079658
+  },
+  {
+    "Item": "Detonate Dead",
+    "Count": 21,
+    "Percent": 0.4848765
+  },
+  {
+    "Item": "Dual Strike",
+    "Count": 21,
+    "Percent": 0.4848765
+  },
+  {
+    "Item": "Viper Strike",
+    "Count": 20,
+    "Percent": 0.4617871
+  },
+  {
+    "Item": "Shrapnel Shot",
+    "Count": 19,
+    "Percent": 0.4386978
+  },
+  {
+    "Item": "Projectile Weakness",
+    "Count": 19,
+    "Percent": 0.4386978
+  },
+  {
+    "Item": "Melee Damage on Full Life",
+    "Count": 17,
+    "Percent": 0.3925191
+  },
+  {
+    "Item": "Vaal Fireball",
+    "Count": 16,
+    "Percent": 0.3694297
+  },
+  {
+    "Item": "Glacial Hammer",
+    "Count": 16,
+    "Percent": 0.3694297
+  },
+  {
+    "Item": "Cleave",
+    "Count": 16,
+    "Percent": 0.3694297
+  },
+  {
+    "Item": "Power Siphon",
+    "Count": 15,
+    "Percent": 0.3463403
+  },
+  {
+    "Item": "Vaal Detonate Dead",
+    "Count": 13,
+    "Percent": 0.3001616
+  },
+  {
+    "Item": "Shield Charge",
+    "Count": 12,
+    "Percent": 0.2770723
+  },
+  {
+    "Item": "Wild Strike",
+    "Count": 12,
+    "Percent": 0.2770723
+  },
+  {
+    "Item": "Fork",
+    "Count": 12,
+    "Percent": 0.2770723
+  },
+  {
+    "Item": "Burning Arrow",
+    "Count": 11,
+    "Percent": 0.2539829
+  },
+  {
+    "Item": "Fire Nova Mine",
+    "Count": 11,
+    "Percent": 0.2539829
+  },
+  {
+    "Item": "Vaal Flameblast",
+    "Count": 11,
+    "Percent": 0.2539829
+  },
+  {
+    "Item": "Lightning Trap",
+    "Count": 10,
+    "Percent": 0.2308936
+  },
+  {
+    "Item": "Vaal Rain of Arrows",
+    "Count": 9,
+    "Percent": 0.2078042
+  },
+  {
+    "Item": "Lightning Tendrils",
+    "Count": 8,
+    "Percent": 0.1847149
+  },
+  {
+    "Item": "Devouring Totem",
+    "Count": 8,
+    "Percent": 0.1847149
+  },
+  {
+    "Item": "Double Strike",
+    "Count": 8,
+    "Percent": 0.1847149
+  },
+  {
+    "Item": "Remote Mine",
+    "Count": 7,
+    "Percent": 0.1616255
+  },
+  {
+    "Item": "Punishment",
+    "Count": 7,
+    "Percent": 0.1616255
+  },
+  {
+    "Item": "Additional Accuracy",
+    "Count": 6,
+    "Percent": 0.1385361
+  },
+  {
+    "Item": "Vigilant Strike",
+    "Count": 6,
+    "Percent": 0.1385361
+  },
+  {
+    "Item": "Vaal Cold Snap",
+    "Count": 6,
+    "Percent": 0.1385361
+  },
+  {
+    "Item": "Bloodlust",
+    "Count": 6,
+    "Percent": 0.1385361
+  },
+  {
+    "Item": "Ranged Attack Totem",
+    "Count": 5,
+    "Percent": 0.1154468
+  },
+  {
+    "Item": "Vaal Double Strike",
+    "Count": 5,
+    "Percent": 0.1154468
+  },
+  {
+    "Item": "Vaal Ice Nova",
+    "Count": 5,
+    "Percent": 0.1154468
+  },
+  {
+    "Item": "Static Strike",
+    "Count": 5,
+    "Percent": 0.1154468
+  },
+  {
+    "Item": "Detonate Mines",
+    "Count": 5,
+    "Percent": 0.1154468
+  },
+  {
+    "Item": "Cast on Melee Kill",
+    "Count": 5,
+    "Percent": 0.1154468
+  },
+  {
+    "Item": "Vaal Power Siphon",
+    "Count": 4,
+    "Percent": 0.09235743
+  },
+  {
+    "Item": "Iron Grip",
+    "Count": 4,
+    "Percent": 0.09235743
+  },
+  {
+    "Item": "Item Quantity",
+    "Count": 3,
+    "Percent": 0.06926807
+  },
+  {
+    "Item": "Rejuvenation Totem",
+    "Count": 3,
+    "Percent": 0.06926807
+  },
+  {
+    "Item": "Chance to Flee",
+    "Count": 3,
+    "Percent": 0.06926807
+  },
+  {
+    "Item": "Vaal Arc",
+    "Count": 3,
+    "Percent": 0.06926807
+  },
+  {
+    "Item": "Elemental Hit",
+    "Count": 3,
+    "Percent": 0.06926807
+  },
+  {
+    "Item": "Dominating Blow",
+    "Count": 2,
+    "Percent": 0.04617871
+  },
+  {
+    "Item": "Freeze Mine",
+    "Count": 2,
+    "Percent": 0.04617871
+  },
+  {
+    "Item": "Vaal Immortal Call",
+    "Count": 2,
+    "Percent": 0.04617871
+  },
+  {
+    "Item": "Cast on Death",
+    "Count": 2,
+    "Percent": 0.04617871
+  },
+  {
+    "Item": "Conversion Trap",
+    "Count": 1,
+    "Percent": 0.02308936
+  },
+  {
+    "Item": "Vaal Glacial Hammer",
+    "Count": 1,
+    "Percent": 0.02308936
+  },
+  {
+    "Item": "Vaal Righteous Fire",
+    "Count": 1,
+    "Percent": 0.02308936
+  },
+  {
+    "Item": "Block Chance Reduction",
+    "Count": 1,
+    "Percent": 0.02308936
+  }
+]
+}
