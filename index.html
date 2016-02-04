@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head><title>Test</title>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/s/zf-5.5.2/dt-1.10.10/datatables.min.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/1.1.1/css/buttons.dataTables.min.css"/>
+<script type="text/javascript" src="https://cdn.datatables.net/s/dt/jq-2.1.4,dt-1.10.10,b-1.1.0,b-html5-1.1.0,r-2.0.0/datatables.min.js"></script>
+</head>
+<body>
+<table id="example" class="display" cellspacing="0" width="100%">
+        <thead>
+            <tr>
+                <th>Item</th>
+                <th>Count</th>
+                <th>Percent</th>
+            </tr>
+        </thead>
+    </table>
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#example').DataTable( {
+        "ajax": 'test.json',
+		 "language": {
+            "decimal": ",",
+            "thousands": "."
+        },
+		 "aoColumns": [
+        { "mData": "Item" },
+        { "mData": "Count" },
+        { "mData": "Percent" }
+    ],
+	dom: 'Bfrtip',
+        buttons: [
+            'csvHtml5',
+        ]
+	} );} );
+	$.extend( true, $.fn.dataTable.defaults, {
+    "searching": true,
+    "ordering": true,
+	"paging": false,
+	"order": [[ 2, "desc" ]],
+	});
+</script>
+</body>
+</html>
